@@ -1,4 +1,4 @@
-package com.my.loadobasedemo;
+package com.my.load_ndk_build_so;
 
 import androidx.appcompat.app.AppCompatActivity;
 

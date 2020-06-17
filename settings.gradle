@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "LoadSOBaseDemo"
+rootProject.name = "Load_ndk_build_SO"

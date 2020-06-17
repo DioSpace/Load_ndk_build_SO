@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.my.loadobasedemo"
+        applicationId "com.my.load_ndk_build_so"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
